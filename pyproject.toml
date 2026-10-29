@@ -1,0 +1,13 @@
+[project]
+name = "spotify-playlist-creator"
+version = "1.0.0"
+description = "Turn the wedding setlists couples send (PDF, DOCX or TXT) into Spotify playlists."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=2.2.0",
+    "pymupdf>=1.27.2.3",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.2",
+    "spotipy>=2.26.0",
+]

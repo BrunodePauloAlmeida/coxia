@@ -1,0 +1,10 @@
+.env
+.venv/
+.cache
+__pycache__/
+*.pyc
+
+# Real setlists and account exports contain other people's names: keep them local
+roteiros/
+playlists.txt
+*:Zone.Identifier
