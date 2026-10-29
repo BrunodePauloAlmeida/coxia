@@ -227,7 +227,7 @@ def main():
             payload={
                 "name": playlist_name,
                 "public": False,
-                "description": "Created automatically from document by spotify-playlist-creator",
+                "description": "Created by Coxia from a setlist",
             },
         )
         playlist_id = playlist["id"]

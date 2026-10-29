@@ -1,7 +1,7 @@
 [project]
-name = "spotify-playlist-creator"
+name = "coxia"
 version = "1.0.0"
-description = "Turn the wedding setlists couples send (PDF, DOCX or TXT) into Spotify playlists."
+description = "Helps musicians prepare for events, starting with turning the setlists couples send into Spotify playlists."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

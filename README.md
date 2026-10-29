@@ -1,8 +1,12 @@
-# spotify-playlist-creator
+# Coxia
 
-Turn the setlists couples send to wedding musicians into Spotify playlists.
+**Everything ready before you go on stage.**
 
-I play at weddings. Before every event the couple sends a setlist, usually a Word file, a PDF or a WhatsApp message, written in whatever format they like: numbered lists, "moment: song - artist (key)", notes for the band mixed in. I need those songs in a Spotify playlist to rehearse. This tool reads the file, works out which lines are songs, finds them on Spotify and creates the playlist, or updates it when the couple changes the list.
+*Coxia* is Portuguese for the wings of a stage, where performers get ready before they go on. Coxia helps musicians prepare for events.
+
+I play at weddings. Before every event the couple sends a setlist, usually a Word file, a PDF or a WhatsApp message, written in whatever format they like: numbered lists, "moment: song - artist (key)", notes for the band mixed in. I need those songs in a Spotify playlist to rehearse. Coxia reads the file, works out which lines are songs, finds them on Spotify and creates the playlist, or updates it when the couple changes the list.
+
+The rehearsal playlist is the first piece. Next come the band's repertoire and usual keys, a choice of recordings when Coxia isn't sure, and a setlist sheet for the band (see the [roadmap](ROADMAP.md)).
 
 ## How it works
 
@@ -52,4 +56,4 @@ See [ROADMAP.md](ROADMAP.md): a public web version, smarter song matching with c
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE). Coxia is not affiliated with or endorsed by Spotify.
